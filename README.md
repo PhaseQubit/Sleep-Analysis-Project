@@ -66,21 +66,6 @@ sleep-quality-analysis/
 
 ---
 
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/sleep-quality-analysis.git
-   cd sleep-quality-analysis
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install pandas seaborn matplotlib
-   ```
-
----
-
 ## Usage
 
 Run the analysis script:
